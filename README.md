@@ -14,9 +14,9 @@ This repository is for my Compact Programming course at FH Dortmund. I will use 
 ### Week 1
 
 - [x] Task 1 - Area of a circle
-- [ ] Task 2 - Variables and data types
-- [ ] Task 3 - Data type conversion
-- [ ] Task 4 - Factorial
+- [x] Task 2 - Variables and data types
+- [x] Task 3 - Data type conversion
+- [x] Task 4 - Factorial
 
 More tasks will be added as I progress through the course.
 
