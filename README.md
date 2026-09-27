@@ -18,6 +18,14 @@ This repository is for my Compact Programming course at FH Dortmund. I will use 
 - [x] Task 3 - Data type conversion
 - [x] Task 4 - Factorial
 
+### Week 2
+
+- [x] Task 1 - Sort tuples by the last element
+- [x] Task 2 - Sum and average of digits in a string
+- [x] Task 3 - Sort a list of dictionaries using lambda
+- [x] Task 4 - Convert a list of strings using map()
+- [x] Task 5 - Dortmund Night of Museums events
+
 More tasks will be added as I progress through the course.
 
 ## Author
