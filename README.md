@@ -47,7 +47,17 @@ This repository is for my Compact Programming course at FH Dortmund. I will use 
 
 #### Pandas
 
-- [ ] Tasks in progress
+- [x] Task 1 - Read a CSV file into a DataFrame
+- [x] Task 2 - Use a Series as the DataFrame index
+- [x] Task 3 - Change column values based on a condition
+- [x] Task 4 - Get column names and count missing values
+- [x] Task 5 - Exchange two columns and sort columns by name
+- [x] Task 6 - Remove the upper and lower 5% of values
+- [x] Task 7 - Replace missing values with the average
+- [x] Task 8 - Create, merge and combine DataFrames
+- [x] Task 9 - Create a histogram
+- [x] Task 10 - Create a correlation matrix
+
 
 More tasks will be added as I progress through the course.
 
