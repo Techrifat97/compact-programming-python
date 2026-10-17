@@ -58,6 +58,13 @@ This repository is for my Compact Programming course at FH Dortmund. I will use 
 - [x] Task 9 - Create a histogram
 - [x] Task 10 - Create a correlation matrix
 
+### Week 4 - Checkers
+
+This project is part of the Week 4 assignment for the Compact Programming course.
+
+The task was to develop a two-player Checkers game using Object-Oriented Programming (OOP) in Python.
+
+I used Tkinter to create a graphical interface so that two players can play the game by selecting and moving checkers on the board.
 
 More tasks will be added as I progress through the course.
 
